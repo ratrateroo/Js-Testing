@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "start": "webpack app.js --mode development --watch",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "keywords": [
     "js",
